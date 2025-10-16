@@ -1,0 +1,14 @@
+{
+  "name": "web-service-js",
+  "version": "1.0.0",
+  "description": "Simple static server for html.html",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "jejen50",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
